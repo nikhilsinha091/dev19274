@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="New App">6c0d66b047c90210c459f5e3416d432e</application>
+        <filter/>
+        <name>New Apps</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_1304876_exl_la_0.new_app_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-17 18:01:48</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>640d66b047c90210c459f5e3416d4332</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Apps</sys_name>
+        <sys_package display_value="EXL Launcher Screen" source="x_1304876_exl_la_0">ad97827847090210c459f5e3416d43b9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EXL Launcher Screen">ad97827847090210c459f5e3416d43b9</sys_scope>
+        <sys_update_name>sys_ui_module_640d66b047c90210c459f5e3416d4332</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-17 18:01:48</sys_updated_on>
+        <table>x_1304876_exl_la_0_new_app</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
